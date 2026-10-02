@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9022dabe80f3f6bf9d1facfb",
+  "owner": "versnjptrd",
+  "repo": "page-dc5dbe7b3ebd3f76b5d14b3a",
+  "title": "飞机TNT",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dc5dbe7b3ebd3f76b5d14b3a",
+      "a": "飞机TNT",
+      "b": "",
+      "entity": "飞机TNT",
+      "brand": "飞机TNT",
+      "separator": "",
+      "path": "index.html",
+      "hash": "90937f53c68811879145f55bee3a97487759983245e43f176d6a7cbfc8885947",
+      "content": {
+        "keyword1": "飞机TNT",
+        "keyword2": "",
+        "primary_entity": "飞机TNT",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "飞机TNT提供稳定高速的机场订阅与VPN网络加速服务，支持多设备客户端下载，覆盖办公、流媒体与游戏场景，欢迎访问官网获取最新套餐与使用指引。",
+          "AI_DESCRIPTION": "飞机TNT提供稳定高速的机场订阅与VPN网络加速服务，支持多设备客户端下载，覆盖办公、流媒体与游戏场景，欢迎访问官网获取最新套餐与使用指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,sans-serif;font-size:16px;line-height:1.65;color:#1f2937;background:#f3f4f6;overflow-x:hidden;word-wrap:break-word}a{color:#5b21b6;text-decoration:none}header{background:#fff;border-bottom:1px solid #e5e7eb;padding:10px 0}nav ul{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 14px;list-style:none;padding:0 12px}nav a{font-size:14px;font-weight:600}.hero{padding:72px 16px 56px;text-align:center}.hero h1{font-size:2.35rem;color:#5b21b6;margin-bottom:18px;letter-spacing:-0.03em;line-height:1.2}.hero p{font-size:1.08rem;color:#4b5563;max-width:440px;margin:0 auto}.wrap{max-width:740px;margin:0 auto;padding:0 16px}main section{padding:36px 0}h2{font-size:1.45rem;color:#4c1d95;margin-bottom:14px}h3{font-size:1.08rem;color:#6d28d9;margin:18px 0 8px}p,li{margin-bottom:8px}.plans{display:flex;flex-direction:column;gap:14px}.plan{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:18px}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.price{font-size:1.4rem;font-weight:700;color:#5b21b6}.annual{font-size:14px;color:#6b7280;margin:4px 0 10px}.features{padding-left:18px}#faq{background:#fff;border-top:4px solid #7c3aed;padding:28px 16px;margin:12px 0}#faq h2{font-size:1.7rem}details{margin:0 0 12px;border:1px solid #ddd6fe;border-radius:8px;padding:10px 12px;background:#fafafa}summary{font-weight:700;color:#4c1d95}footer{background:#e5e7eb;padding:28px 16px;font-size:14px;color:#4b5563}footer h2{font-size:1.1rem;margin-top:16px}.muted{color:#6b7280;font-size:14px}@media(min-width:640px){.hero{padding:96px 16px 64px}.hero h1{font-size:2.8rem}.plans{flex-direction:row;flex-wrap:wrap}.plan{flex:1;min-width:200px}}</style><header><nav><ul><li><a href=\"#intro\">简介</a></li><li><a href=\"#scenes\">场景</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#guide\">使用说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></header><div class=\"hero\"><h1>飞机TNT</h1><p>官方机场订阅与 VPN 网络加速服务，多端客户端、灵活套餐，面向办公、流媒体与游戏加速。</p></div><main><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><p>飞机TNT 是面向个人与小团队的机场订阅服务，定位于稳定、可预期的跨境网络加速。我们运营覆盖香港、日本、新加坡、美国等地的节点池，采用常见安全传输协议，配合智能分流，让国内站点直连、境外流量走代理。</p><p>本站为飞机TNT 官方网站，套餐说明、操作步骤与客户端下载指引均在此发布。订阅后您将获得可导入 Clash、Shadowrocket、v2rayN 等客户端的通用订阅地址，节点列表可随线路维护自动更新。</p><p>服务强调可用性与清晰规则：流量按自然月重置，同时在线设备数按套餐限制，旗舰与团队档位提供更完整的流媒体解锁与专线游戏优化。我们不编造评测分数，请以实际延迟与您所在网络为准。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与协作</h3><p>视频会议、云盘与企业邮箱在跨国链路上更容易抖动。飞机TNT 普通与专线节点可降低往返时延，适合远程文档协同和持续在线沟通。</p><h3>流媒体与资讯获取</h3><p>旗舰版强调全节点原生流媒体解锁，便于观看主流影视与体育内容；基础版覆盖常见资讯站点与基础视频需求。</p><h3>游戏加速</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与主机在线。请优先选择标注游戏或专线的节点，并关闭占用带宽的下载任务。</p><h3>学习与开发</h3><p>访问文档站点、代码托管、学术资源与在线课程时，稳定的境外出口能减少中断。建议搭配规则集，仅对需要的域名走代理。</p><h3>公共网络下的传输保护</h3><p>在酒店或咖啡馆 Wi-Fi 上，加密隧道可减少中间人窥探明文流量的风险，作为日常隐私习惯的一部分。</p></section><section id=\"plans\"><h2>订阅套餐</h2><p>以下为官网当前固定方案。年付可锁定优惠价，流量与设备数请按实际同时使用情况选择，避免高峰期互相挤占。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"guide\"><h2>操作说明</h2><h3>选择套餐并获取订阅</h3><p>根据流量、设备数与是否需要游戏专线，选择基础版、旗舰版或团队版。完成订购后，在用户中心复制订阅链接（通常兼容 Clash 与部分 V2 客户端）。请妥善保存链接，避免公开分享导致流量被盗用。</p><h3>安装客户端</h3><p>前往<a href=\"#download\">客户端下载</a>章节，按系统选择主流开源或商店应用。飞机TNT 不强制绑定单一软件，导入同一订阅即可在多端使用，但仍须遵守同时在线台数。</p><h3>导入配置</h3><p>打开客户端，选择从 URL 更新订阅，粘贴链接并完成首次拉取。建议开启自动更新，以便我们调整线路后您能及时获得新节点。</p><h3>连接与分流</h3><p>选择延迟较低的节点连接。推荐使用规则模式：国内 IP 与常用应用直连，境外域名走代理，减少不必要的绕行。游戏请手动指定专线节点。</p><h3>日常维护</h3><p>若某节点超时，先切换备用线路或重新更新订阅。检查系统时间是否准确、本地防火墙是否拦截核心进程。旗舰及以上用户可通过优先工单反馈持续故障。</p></section><section id=\"download\"><h2>客户端下载</h2><p>飞机TNT 官方网站提供客户端选用说明，安装包请从各应用官方渠道或可信开源发布页获取，避免来路不明的捆绑包。导入本站订阅即可使用机场节点。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端或 v2rayN 等工具；Linux 用户可选择命令行或托盘版。导入后在设置中打开系统代理或 TUN 模式。</p><h3>移动端</h3><p>iOS 常用 Shadowrocket、Stash、Quantumult X 等；Android 可使用 Clash Meta 系或 NekoBox。首次导入需允许 VPN 配置描述文件。</p><h3>安全提示</h3><p>只在本官网核对套餐与教程。任何索要额外远程桌面、或要求关闭杀毒后运行未知程序的“客服”，均非飞机TNT 官方做法。</p><p><a href=\"#faq\">查看导入与设备数相关问题</a></p></section></div><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><p>以下为使用飞机TNT 机场订阅与加速器时最常被问到的要点，建议收藏本页对照操作。</p><details><summary>飞机TNT 是什么？和传统 VPN 有何不同？</summary><p>飞机TNT 是机场订阅型网络加速服务：一份订阅对应一组可更新的节点，可在多种客户端中导入，并配合分流规则。传统单节点 VPN 往往配置固定、扩展性较弱；机场模式更适合需要多地区切换与规则自定义的用户。</p></details><details><summary>如何完成官网订阅并开始加速？</summary><p>在套餐区选定档位并完成支付后，到用户中心复制订阅 URL，再按操作说明导入客户端、更新节点并连接。年付与月付仅计费周期不同，节点权限以套餐功能列表为准。</p></details><details><summary>客户端应该从哪里下载？是否提供安装包直链？</summary><p>请使用各系统官方商店或项目发布页获取客户端，本页给出选用方向与导入步骤。我们不把安装包混在第三方网盘，以降低篡改风险。下载后只需导入飞机TNT 订阅即可。</p></details><details><summary>流量如何计算？用尽后能否继续使用？</summary><p>流量按套餐额度在计费周期内累计，上传下载均计入。用尽后新连接会受限，可等待周期重置或升级到更高档位。4K 流媒体与大文件同步消耗较快，办公网页则相对节省。</p></details><details><summary>各套餐的流媒体解锁和游戏加速有何差别？</summary><p>基础版提供基础流媒体能力与普通线路；旗舰版强调全节点原生解锁并含 IPLC 游戏优化；团队版在此之上提供 VIP 高带宽与定制路由。实际播放仍受版权地区与线路负载影响。</p></details><details><summary>同时在线设备超限会怎样？家庭如何分配？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出会出现反复断线或新设备无法握手。建议手机与电脑占用名额，智能电视可共用一台已登录设备的热点，或升级团队版。</p></details><details><summary>连不上或延迟突然升高如何处理？</summary><p>依次尝试：更新订阅、更换节点、切换网络（例如关闭 IPv6 或更换 DNS）、重启客户端。持续全线异常时，旗舰与团队用户可走优先工单。本地运营商高峰也会影响观感，可对比不同时段。</p></details></div></section><div class=\"wrap\"><section id=\"ads\"><h2>广告合作</h2><p class=\"muted\">本区域为飞机TNT 官网固定广告位，仅展示与网络工具、云服务相关的文字合作信息。投放需求请通过官方工单联系，谢绝来路不明的下载站互换。</p><p>示例：企业专线咨询、合规跨境办公解决方案合作说明（具体以商务回复为准）。</p></section><section id=\"links\"><h2>友情链接</h2><ul class=\"features\"><li><a href=\"#\">客户端兼容性说明（页内）</a></li><li><a href=\"#guide\">机场订阅导入教程</a></li><li><a href=\"#plans\">套餐与年付说明</a></li><li><a href=\"#download\">官方下载指引</a></li></ul></section><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"features\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">订阅套餐</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告合作</a></li><li><a href=\"#links\">友情链接</a></li></ul></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>飞机TNT 官方网站 · 机场订阅与 VPN 加速器服务说明</p><p>仅提供合法合规的网络加速与隐私保护用途说明。请遵守所在地法律法规与目标网站条款。</p><p><a href=\"#intro\">返回简介</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "0ac061e88331aa24f14ee3fdca92f59026519f2b523b3f882efe5f61f1b1ca81",
+          "seo": {
+            "title": "飞机TNT官网：VPN加速器、机场订阅与客户端官方下载",
+            "keywords": "飞机TNT,飞机TNT官网,飞机TNT机场,飞机TNT VPN,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "飞机TNT提供稳定高速的机场订阅与VPN网络加速服务，支持多设备客户端下载，覆盖办公、流媒体与游戏场景，欢迎访问官网获取最新套餐与使用指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mivdueo.cn",
+    "host": "p-1c0452451e.mivdueo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "mivdueo.cn",
+      "url": "https://mivdueo.cn/",
+      "label": "Dogess",
+      "apex": "mivdueo.cn",
+      "kind": null,
+      "identity": "rtedbtqmng/page-6f6f8807156c3e33ea3937e1"
+    },
+    {
+      "host": "npyza.cn",
+      "url": "https://npyza.cn/",
+      "label": "飞机TNT",
+      "apex": "npyza.cn",
+      "kind": null,
+      "identity": "qkhysdcbd/page-d46127e383fb6844f2f0fdce"
+    },
+    {
+      "host": "wdxwyqx.cn",
+      "url": "https://wdxwyqx.cn/",
+      "label": "飞机TNT",
+      "apex": "wdxwyqx.cn",
+      "kind": null,
+      "identity": "ybepvqmnk/page-95475f9696c3ed046e632845"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f3f838fe77d954dd2d16502e64776a04be9310f9494efb841001ea089acf6da8",
+    "sitemap.xml": "53d587f7ab45e908f978be8217163f48a51ecfb4732d63a7dd2a56e7aeba71fa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6b828978bbe2885c69bb5804fb7a8ed926332ed6b9ea3497c48db92b57e23577",
+    "robots.txt": "5b3189f4df4c56f701c0c7b1a536d15f82d29f837d73b3a3d70e5cec5ad4bcbc",
+    "e05db32306c8ee34b4ee294b35c6042e.txt": "ca1ccd16bd2a1f5236930a23ef99175ebad0f9ece2b2f68f7ab4256f60623808"
+  },
+  "revision": "d3b359f8ef46503108d37c0f30e38e6da086aae1cbf9e4c049adbe202dce0d67"
+}
